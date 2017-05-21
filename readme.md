@@ -2,7 +2,7 @@
 
 ## Overview
 
-Application to add resturants, their menu items
+Application to add resturants, its menu items
 
 ## Tech Stack
 Python
