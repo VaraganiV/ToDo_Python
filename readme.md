@@ -2,9 +2,10 @@
 
 ## Overview
 
-'''
+```
 Application to add resturants, its menu items
-'''
+
+```
 
 ## Tech Stack
 Python
