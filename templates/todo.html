@@ -1,0 +1,22 @@
+<html>
+<head>
+</head>
+
+
+<body>
+<div class = 'pane'>
+<h1>To Dos</h1>
+
+<a href="{{url_for('newtodo')}}" > <h3> Create a New ToDo </h3> </a>
+
+<table border=1px>
+{% for todo in todos %}
+<tr>
+<td>{{todo.task_id}}</td>
+<td>{{todo.task_desc}}</td>
+</tr>
+{% endfor %}
+</table>
+</div>
+</body>
+</html>

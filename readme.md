@@ -1,9 +1,9 @@
-# Resturant Application
+# To Do Application
 
 ## Overview
 
 ```
-Application to add resturants, its menu items
+Manage To Do's
 
 ```
 
@@ -34,6 +34,6 @@ $ python test_data.py
 **Run application**
 
 ```
-$ python restaurant_mgr.py
+$ python todo_mgr.py
 
 ```
