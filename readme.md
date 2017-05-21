@@ -6,8 +6,11 @@ Application to add resturants, their menu items
 
 ## Tech Stack
 Python
+
 Flask
+
 SQLLite
+
 Vagrant VM
 
 
